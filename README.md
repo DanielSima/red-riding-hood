@@ -1,4 +1,8 @@
 # red-riding-hood
 A C# text based game where you move on a board and answer some questions.
 
-![screenshot](https://github.com/DanielSima/weather-station/blob/master/screencapture-18-184-192-25-2019-05-06-18_39_30.png?raw=true)
+![screenshot](https://github.com/DanielSima/red-riding-hood/blob/master/image1.png?raw=true)
+
+![screenshot](https://github.com/DanielSima/red-riding-hood/blob/master/image2.png?raw=true)
+
+![screenshot](https://github.com/DanielSima/red-riding-hood/blob/master/image3.png?raw=true)
