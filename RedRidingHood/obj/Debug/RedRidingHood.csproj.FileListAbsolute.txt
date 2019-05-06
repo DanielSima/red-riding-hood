@@ -1,0 +1,7 @@
+D:\Projects\RedRidingHood\RedRidingHood\obj\Debug\RedRidingHood.csprojAssemblyReference.cache
+D:\Projects\RedRidingHood\RedRidingHood\obj\Debug\RedRidingHood.csproj.CoreCompileInputs.cache
+D:\Projects\RedRidingHood\RedRidingHood\bin\Debug\RedRidingHood.exe.config
+D:\Projects\RedRidingHood\RedRidingHood\bin\Debug\RedRidingHood.exe
+D:\Projects\RedRidingHood\RedRidingHood\bin\Debug\RedRidingHood.pdb
+D:\Projects\RedRidingHood\RedRidingHood\obj\Debug\RedRidingHood.exe
+D:\Projects\RedRidingHood\RedRidingHood\obj\Debug\RedRidingHood.pdb
